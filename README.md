@@ -1,16 +1,27 @@
-### Hi there 👋
+### 🤖 Rodolfo De Nadai a.k.a rdenadai
+---
 
-<!--
-**rdenadai/rdenadai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a middle age software developer from Brazil, trying to learn a little bit more about the world and understand better people, with their strange and sometimes bizarre view of the world.
 
-Here are some ideas to get you started:
+As a software developer i enjoy build programs to help others and learn more... The only thing the really drivers me further is knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **python** projects!
+- 🌱 I’m currently learning more about **Machine Learning**, **Time Series** and other hard topics in science.
+- ⚡ Fun fact: Computer geek and **Star Wars** fan!
+
+### 🧐 My values
+---
+
+ - Most of the time you should try pondering things deeply
+ - Do less with more
+ - People have to be trustworthy
+ - Nothing is impossible, except what you don't want to do
+
+### 🤯 Think about
+---
+
+*"As also what troops of diseases beset us, how many casualties hang over our heads, how many troubles invade us, and how little there is that is not steeped in gall?"* The Praise of Folly by Desiderius Erasmus Roterodamus
+
+*"One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin."* Metamorphosis by Franz Kafka
+
+*"Before we can understand how to create intelligence, it helps to understand what it is. The answer is not to be found in IQ tests, or even in Turing tests, but in a simple relationship between what we perceive, what we want, and what we do. Roughly speaking, an entity is intelligent to the extent that what it does is likely to achieve what it wants, given what it has perceived."* Human Compatible by Stuart Russell

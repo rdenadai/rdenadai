@@ -1,12 +1,12 @@
 ### 🤖 Rodolfo De Nadai a.k.a rdenadai
 ---
 
-I'm a middle age software developer from Brazil, trying to learn a little bit more about the world and understand better people, with their strange and sometimes bizarre view of the world.
+I'm a middle age software developer from Brazil, trying to learn a little bit more about the world and better understand people strange and sometimes bizarre view of the world.
 
-As a software developer i enjoy build programs to help others and learn more... The only thing the really drivers me further is knowledge.
+As a software developer i enjoy build programs to help others and learn more... The only thing that really drivers me further is knowledge.
 
-- 🔭 I’m currently working on **python** projects!
-- 🌱 I’m currently learning more about **Machine Learning**, **Time Series** and other hard topics in science.
+- 🔭 I’m currently working on **Python** projects! (future **Rust**?)
+- 🌱 I’m currently learning more about **Machine Learning**, **Time Series** and other topics in science.
 - ⚡ Fun fact: Computer geek and **Star Wars** fan!
 
 ### 🧐 My values
@@ -25,3 +25,5 @@ As a software developer i enjoy build programs to help others and learn more... 
 *"One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin."* Metamorphosis by Franz Kafka
 
 *"Before we can understand how to create intelligence, it helps to understand what it is. The answer is not to be found in IQ tests, or even in Turing tests, but in a simple relationship between what we perceive, what we want, and what we do. Roughly speaking, an entity is intelligent to the extent that what it does is likely to achieve what it wants, given what it has perceived."* Human Compatible by Stuart Russell
+
+*"(...) there are no images, videos, or sound recordings stored in the brain. Our memories are stored as sequences of patterns. Memories that are not accessed dim over time."* How to create a Mind by Ray Kurzweil

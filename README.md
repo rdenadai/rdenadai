@@ -20,10 +20,12 @@ As a software developer i enjoy build programs to help others and learn more... 
 ### 🤯 Think about
 ---
 
-*"As also what troops of diseases beset us, how many casualties hang over our heads, how many troubles invade us, and how little there is that is not steeped in gall?"* The Praise of Folly by Desiderius Erasmus Roterodamus
+*"As also what troops of diseases beset us, how many casualties hang over our heads, how many troubles invade us, and how little there is that is not steeped in gall?"* The Praise of Folly, Desiderius Erasmus Roterodamus
 
-*"One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin."* Metamorphosis by Franz Kafka
+*"One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin."* Metamorphosis, Franz Kafka
 
-*"Before we can understand how to create intelligence, it helps to understand what it is. The answer is not to be found in IQ tests, or even in Turing tests, but in a simple relationship between what we perceive, what we want, and what we do. Roughly speaking, an entity is intelligent to the extent that what it does is likely to achieve what it wants, given what it has perceived."* Human Compatible by Stuart Russell
+*"Before we can understand how to create intelligence, it helps to understand what it is. The answer is not to be found in IQ tests, or even in Turing tests, but in a simple relationship between what we perceive, what we want, and what we do. Roughly speaking, an entity is intelligent to the extent that what it does is likely to achieve what it wants, given what it has perceived."* Human Compatible, Stuart Russell
 
-*"(...) there are no images, videos, or sound recordings stored in the brain. Our memories are stored as sequences of patterns. Memories that are not accessed dim over time."* How to create a Mind by Ray Kurzweil
+*"(...) there are no images, videos, or sound recordings stored in the brain. Our memories are stored as sequences of patterns. Memories that are not accessed dim over time."* How to create a Mind, Ray Kurzweil
+
+"In fact, it is essential to note that the verbal image is not to be confused with the sound itself and that it is psychic, in the same way as the concept associated with it." Curso de Linguística Geral, Ferdinand de Saussure

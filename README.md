@@ -1,13 +1,21 @@
 ### 🤖 Rodolfo De Nadai a.k.a rdenadai
 ---
 
+[![Twitter: rdenadai](https://img.shields.io/twitter/follow/rdenadai?style=social)](https://twitter.com/MianJawadAhmad1)
+[![Linkedin: rdenadai](https://img.shields.io/badge/-rdenadai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rdenadai/)](https://www.linkedin.com/in/rdenadai/)
+[![GitHub rdenadai](https://img.shields.io/github/followers/rdenadai?label=follow&style=social)](https://github.com/rdenadai)
+
 I'm a middle age software developer from Brazil, trying to learn a little bit more about the world and better understand people strange and sometimes bizarre view of the world.
 
 As a software developer i enjoy build programs to help others and learn more... The only thing that really drivers me further is knowledge.
 
-- 🔭 I’m currently working on **Python** projects! (future **Rust**?)
+- 🔭 I’m currently working on **Python** projects and starting with **Rust**!
 - 🌱 I’m currently learning more about **Machine Learning**, **Time Series** and other topics in science.
-- ⚡ Fun fact: Computer geek and **Star Wars** fan!
+- ⚡ Fun fact:
+  - Computer geek
+  - **Star Wars**!
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rdenadai&show_icons=true)
 
 ### 🧐 My values
 ---

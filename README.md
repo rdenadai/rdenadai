@@ -36,4 +36,4 @@ As a software developer i enjoy build programs to help others and learn more... 
 
 *"(...) there are no images, videos, or sound recordings stored in the brain. Our memories are stored as sequences of patterns. Memories that are not accessed dim over time."* How to create a Mind, Ray Kurzweil
 
-"In fact, it is essential to note that the verbal image is not to be confused with the sound itself and that it is psychic, in the same way as the concept associated with it." Curso de Linguística Geral, Ferdinand de Saussure
+*"In fact, it is essential to note that the verbal image is not to be confused with the sound itself and that it is psychic, in the same way as the concept associated with it."* Curso de Linguística Geral, Ferdinand de Saussure

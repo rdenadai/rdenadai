@@ -15,7 +15,7 @@ As a software developer i enjoy build programs to help others and learn more... 
   - Computer geek
   - **Star Wars**!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rdenadai&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rdenadai&show_icons=true&theme=radical)
 
 ### 🧐 My values
 ---

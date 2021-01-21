@@ -1,7 +1,7 @@
 ### 🤖 Rodolfo De Nadai a.k.a rdenadai
 ---
 
-[![Twitter: rdenadai](https://img.shields.io/twitter/follow/rdenadai?style=social)](https://twitter.com/MianJawadAhmad1)
+[![Twitter: rdenadai](https://img.shields.io/twitter/follow/rdenadai?style=social)](https://twitter.com/rdenadai)
 [![Linkedin: rdenadai](https://img.shields.io/badge/-rdenadai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rdenadai/)](https://www.linkedin.com/in/rdenadai/)
 [![GitHub rdenadai](https://img.shields.io/github/followers/rdenadai?label=follow&style=social)](https://github.com/rdenadai)
 

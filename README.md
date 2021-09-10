@@ -13,7 +13,7 @@ As a software developer i enjoy build programs to help others and learn more... 
 - 🌱 I’m currently learning more about **Machine Learning**, **Time Series** and other topics in science.
 - ⚡ Fun fact:
   - Computer geek
-  - **Star Wars**!
+  - **Star Wars** Fan!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rdenadai&show_icons=true&theme=radical)
 

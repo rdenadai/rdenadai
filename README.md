@@ -9,7 +9,7 @@ I'm a middle age software developer from Brazil, trying to learn a little bit mo
 
 As a software developer i enjoy build programs to help others and learn more... The only thing that really drivers me further is knowledge.
 
-- 🔭 I’m currently working on **Python** projects and starting with **Rust**!
+- 🔭 I’m currently working on **Python** projects and starting learning **Rust**!
 - 🌱 I’m currently learning more about **Machine Learning**, **Time Series** and other topics in science.
 - ⚡ Fun fact:
   - Computer geek

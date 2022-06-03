@@ -16,7 +16,7 @@ As a software developer i enjoy build programs to help others and learn more... 
   - **Star Wars** Fan!
 
 <div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rdenadai&show_icons=true&theme=racula&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rdenadai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdenadai&layout=compact&theme=dracula&langs_count=8&hide=jupyter%20notebook,html" />
 </div>
 

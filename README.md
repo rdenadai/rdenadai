@@ -41,3 +41,6 @@ As a software developer i enjoy build programs to help others and learn more... 
 *"(...) there are no images, videos, or sound recordings stored in the brain. Our memories are stored as sequences of patterns. Memories that are not accessed dim over time."* How to create a Mind, Ray Kurzweil
 
 *"In fact, it is essential to note that the verbal image is not to be confused with the sound itself and that it is psychic, in the same way as the concept associated with it."* Curso de Linguística Geral, Ferdinand de Saussure
+
+*"The trick to coming up with novel uses for a brick is to not be attached to its identity as a brick. The trick is to reconceive it as a nonbrick.
+I think that bottom-up, details-first thinkers like myself are more likely to have creative breakthroughs just because we don’t know where we’re going. We accumulate details without knowing what they mean and without necessarily attaching emotional significance to them. We seek connections among them without knowing where they’re taking us. We hope those associations will lead us to the big picture—the forest—but we don’t know where we will be until we arrive there. We expect surprises.*" The Autistic Brain: Thinking Across the Spectrum, Temple Grandin 

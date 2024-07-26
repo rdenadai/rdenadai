@@ -5,15 +5,16 @@
 [![Linkedin: rdenadai](https://img.shields.io/badge/-rdenadai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rdenadai/)](https://www.linkedin.com/in/rdenadai/)
 [![GitHub rdenadai](https://img.shields.io/github/followers/rdenadai?label=follow&style=social)](https://github.com/rdenadai)
 
-I'm a middle age software developer from Brazil, trying to learn a little bit more about the world and better understand people strange and sometimes bizarre view of the world.
+I'm a middle-aged software developer from Brazil, eager to learn more about the world and better understand people's strange and sometimes bizarre views.
 
-As a software developer i enjoy build programs to help others and learn more... The only thing that really drivers me further is knowledge.
+As a software developer, I enjoy building programs to help others. The thing that really drives me is the pursuit of knowledge.
 
-- 🔭 I’m currently working on **Python** projects and starting learning **Rust**!
-- 🌱 I’m currently learning more about **Machine Learning**, **Time Series** and other topics in science.
+- 🔭 I’m currently working on Python projects and starting to learn Rust!
+- 🌱 I’m currently diving deeper into Machine Learning, Time Series analysis, and other scientific topics.
 - ⚡ Fun fact:
   - Computer geek
   - **Star Wars** Fan!
+
 
 <div align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rdenadai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
